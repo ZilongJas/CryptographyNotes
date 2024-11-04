@@ -9,3 +9,19 @@ ___
 - RSA: A widely used encryption algorithm relying on the difficulty of factoring large prime numbers. Commonly used for secure data transmission.
 - ECC (Elliptic Curve Cryptography): An encryption method that uses elliptic curves for smaller, efficient keys, providing similar security to RSA with smaller key sizes.
 - Diffie-Hellman: A key exchange method allowing two parties to securely generate a shared secret over an insecure channel, forming the basis of many encryption protocols.
+___
+### XOR Operation (exclusive OR)
+![image](https://github.com/user-attachments/assets/559250a9-cd33-44f9-80ae-40f76042c032)
+- similar to a truth table
+___
+### Modulo Operation (% or mod)
+- the remainder (like a math problem)
+
+
+
+
+
+
+
+
+
