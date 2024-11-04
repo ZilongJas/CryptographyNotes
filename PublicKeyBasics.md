@@ -7,3 +7,10 @@ ___
 ### Diffie-Hellman Key Exchange
 - ex: key agreement, often used along with RSA public key cryptography
 ![image](https://github.com/user-attachments/assets/c256d3a5-d732-4fc0-a50f-66790581ff28)
+___
+![image](https://github.com/user-attachments/assets/02b8ffe7-c958-4ff1-b53a-cc41eb882bee)
+___
+### PGP and GPG
+- PGP stands for Pretty Good Privacy. It’s software that implements encryption for encrypting files, performing digital signing, and more.
+-  GnuPG or GPG is an open-source implementation of the OpenPGP standard.
+  
