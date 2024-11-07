@@ -29,3 +29,19 @@ ___
 - hashed using NTLM, variant of MD4
 - minikatz can circumvent windows security
 - hashes are split into NT hashes and LM hashes
+___
+### Integrity Checking
+- HMAC (Keyed-Hash Message Authentication Code)
+  - a type of message authentication code (MAC) that uses a cryptographic hash function in combination with a secret key to verify the authenticity and integrity of data.
+
+
+
+
+
+
+
+
+
+
+
+
