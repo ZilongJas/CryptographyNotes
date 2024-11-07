@@ -17,3 +17,15 @@ ___
 ![image](https://github.com/user-attachments/assets/d3085652-b1fd-46b3-8b25-ba7bc3ea5a3f)
 - Argon2, Scrypt, Bcrypt, or PBKDF2 are secure hashing functions
 - https://hashes.com/en/decrypt/hash
+- https://hashcat.net/wiki/doku.php?id=example_hashes
+___
+### Linux
+- password hashes are stored in /etc/shadow
+- `$prefix$options$salt$hash`
+![image](https://github.com/user-attachments/assets/0cb447c6-63d2-42ef-b5e7-488ea3f587e7)
+___
+### Windows
+- password hashes are stored in SAM (Security Accounts Manager)
+- hashed using NTLM, variant of MD4
+- minikatz can circumvent windows security
+- hashes are split into NT hashes and LM hashes
