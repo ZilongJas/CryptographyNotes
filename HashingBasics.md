@@ -24,6 +24,7 @@ ___
 ### Linux
 - password hashes are stored in /etc/shadow
 - `$prefix$options$salt$hash`
+  
 ![image](https://github.com/user-attachments/assets/0cb447c6-63d2-42ef-b5e7-488ea3f587e7)
 
 ___
